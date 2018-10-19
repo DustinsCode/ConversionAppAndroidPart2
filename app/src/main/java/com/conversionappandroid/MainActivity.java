@@ -12,7 +12,6 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-    // Hacktoberfest Rules
 
     UnitsConverter.VolumeUnits fromVol = UnitsConverter.VolumeUnits.Gallons;
     UnitsConverter.VolumeUnits toVol = UnitsConverter.VolumeUnits.Liters;
